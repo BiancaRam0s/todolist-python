@@ -1,0 +1,3 @@
+# id|titulo|categoria|prioridade|status|data_criacao|data_conclusao
+1|Ir para Escola|Escola|Alta|Concluída|2026-08-26 22:40:08|2026-08-26 22:41:16
+2|Dormir cedo|Descanso|Alta|Pendente|2026-08-26 22:40:48|-
